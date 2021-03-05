@@ -1,6 +1,6 @@
 from config import OWNER_ID
 from pyrogram.types.bots_and_keyboards import reply_keyboard_markup
-from Sherlock.modules import *
+from TamilBots.modules import *
 from pyrogram import idle, filters
 from pyrogram.types import InlineKeyboardMarkup
 from pyrogram.types import InlineKeyboardButton
