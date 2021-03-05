@@ -1,0 +1,42 @@
+{
+    "name": "SongPlayRoBot",
+    "logo": "https://telegra.ph/file/cb7b0aead06c96955323e.jpg",
+    "description": "Grabs song from yt and sends it to telegram by @TamilBots",
+    "env": {
+        "API_ID": {
+            "description": "Get this value from my.telegram.org.",
+            "required": true
+        },
+        "API_HASH": {
+            "description": "Get this value from my.telegram.org.",
+            "required": true
+        },
+        "BOT_TOKEN": {
+            "description": "Get this value by making a bot from @BotFather.",
+            "required": true
+        },
+        "OWNER_ID": {
+            "description": "Your telegram user id.",
+            "required": true
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "addons": [
+        {
+            "plan": "heroku-postgresql",
+            "options": {
+                "version": "12"
+            }
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
