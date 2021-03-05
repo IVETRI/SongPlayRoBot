@@ -10,11 +10,11 @@ from TamilBots.TamilBots import ignore_blacklisted_users
 from TamilBots.sql.chat_sql import add_chat_to_db
 
 start_text = """
-Hey [{}](tg://user?id={}),
-I'm [Alexa🎶](https://telegra.ph/file/dbed7ae52ae9e91261abc.jpg)
-I'm a music bot created by @mr_srlock.
-Just send me the song name you want to download.
-Eg: ```/song Love me like you do```
+வணக்கம்! [{}](tg://user?id={}),
+நான் {}.
+I'M Music Bot By @TamilBots 🤖
+நீங்கள் Download செய்ய வேண்டிய பாடலின் பெயரை உள்ளிடவும்...
+எ.கா : ```/song Kanave Kanave```
 """
 
 owner_help = """
