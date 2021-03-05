@@ -2,7 +2,7 @@ import threading
 
 from pyrogram.filters import chat
 
-from Sherlock.sql import BASE, SESSION
+from TamilBots.sql import BASE, SESSION
 from sqlalchemy import Column, String, UnicodeText
 
 
