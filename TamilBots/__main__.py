@@ -10,11 +10,11 @@ from TamilBots.TamilBots import ignore_blacklisted_users
 from TamilBots.sql.chat_sql import add_chat_to_db
 
 start_text = """
-வணக்கம்! [{}](tg://user?id={}),
-நான் {}.
+HI! [{}](tg://user?id={}),
+IT'S {}.
 I'M Music Bot By @TamilBots 🤖
-நீங்கள் Download செய்ய வேண்டிய பாடலின் பெயரை உள்ளிடவும்...
-எ.கா : ```/song Kanave Kanave```
+Just send me the song name you want to download...
+Eg :- ```/song Kanave Kanave```
 """
 
 owner_help = """
