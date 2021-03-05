@@ -11,7 +11,7 @@ from TamilBots.sql.chat_sql import add_chat_to_db
 
 start_text = """
 HI! [{}](tg://user?id={}),
-IT'S [{}].
+IT'S [SongPlayRoBot🎶](https://telegra.ph/file/cb7b0aead06c96955323e.jpg)
 I'M Music Bot By @TamilBots 🤖
 Just send me the song name you want to download...
 Eg :- ```/song Kanave Kanave```
@@ -36,7 +36,7 @@ async def start(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        text="💫 Add alexa in your group 💫", url="http://t.me/Xalexa_robot?startgroup=true"
+                        text="💫 Add Me To your group 💫", url="http://t.me/SongPlayRoBot?startgroup=true"
                     )
                 ]
             ]
