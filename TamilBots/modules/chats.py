@@ -1,8 +1,8 @@
 from config import OWNER_ID
 from pyrogram import filters
-from Sherlock import app
-from Sherlock.Sherlock import get_arg
-from Sherlock.sql.chat_sql import load_chats_list, remove_chat_from_db
+from TamilBots import app
+from TamilBots.Sherlock import get_arg
+from TamilBots.sql.chat_sql import load_chats_list, remove_chat_from_db
 from io import BytesIO
 
 
