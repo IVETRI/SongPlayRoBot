@@ -4,9 +4,9 @@ from TamilBots.modules import *
 from pyrogram import idle, filters
 from pyrogram.types import InlineKeyboardMarkup
 from pyrogram.types import InlineKeyboardButton
-from Sherlock import app, LOGGER
-from Sherlock.Sherlock import ignore_blacklisted_users
-from Sherlock.sql.chat_sql import add_chat_to_db
+from TamilBots import app, LOGGER
+from TamilBots.TamilBots import ignore_blacklisted_users
+from TamilBots.sql.chat_sql import add_chat_to_db
 
 start_text = """
 வணக்கம்! [{}](tg://user?id={}),
