@@ -11,7 +11,7 @@ from TamilBots.sql.chat_sql import add_chat_to_db
 
 start_text = """
 HI! [{}](tg://user?id={}),
-IT'S {}.
+IT'S [{}].
 I'M Music Bot By @TamilBots 🤖
 Just send me the song name you want to download...
 Eg :- ```/song Kanave Kanave```
