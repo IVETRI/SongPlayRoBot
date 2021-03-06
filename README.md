@@ -13,10 +13,10 @@ Easy To Deploy 🤗
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IVETRI/SongPlayRoBot.git)
 
 # Group
-You can also join our support group [here!](https://t.me/TamilSupport)
+You can also join our support group [HERE!](https://t.me/TamilSupport) 👨🏻‍💻
 
 # Report error
-Report your problem along with your name to This [person](https://t.me/IMVETRI)
+Report your problem along with your name to This [PERSON](https://t.me/IMVETRI) 😪
 ## credits
 This Repo Is Just A Custom Fork Of [Alexa](https://github.com/Mr-SHRLCK/Alexa)
 Thanks to [「𝙨𝙝є𝙧𝙡σ𝙘𝙠」](https:t.me/Mr_SRLOCK)
