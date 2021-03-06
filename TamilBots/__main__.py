@@ -32,8 +32,8 @@ async def start(client, message):
     name = message.from_user["first_name"]
     if message.chat.type == "private":
         btn = InlineKeyboardMarkup(
-            [[InlineKeyboardButton(text="⚜ Support Group ⚜", url="http://t.me/TamilSupport"),
-                    InlineKeyboardButton(
+           [[InlineKeyboardButton(text="⚜ Support Group ⚜", url="http://t.me/TamilSupport"),
+                   keyboard = InlineKeyboardButton(
                         text="🤗 Add Me To Your Group 🥳", url="http://t.me/SongPlayRoBot?startgroup=true"
                     )
                 ]
