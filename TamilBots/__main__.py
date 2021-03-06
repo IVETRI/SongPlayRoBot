@@ -11,12 +11,13 @@ from TamilBots.sql.chat_sql import add_chat_to_db
 start_text = """
 வணக்கம்! [{}](tg://user?id={}),
 
-நான் [SongPlayRoBot🎶](https://telegra.ph/file/cb7b0aead06c96955323e.jpg)!
+நான் [SongPlayRoBot! 🎶](https://telegra.ph/file/cb7b0aead06c96955323e.jpg)
 
 I'M Music Bot By @TamilBots 🤖
 
 உங்களுக்கு தேவையான பாடலின் பெயரை அனுப்பவும்... 🥰🤗🥰
-Eg :- ```/song Kanave Kanave```
+
+எ.கா :- ```/song Kanave Kanave```
 """
 
 owner_help = """
