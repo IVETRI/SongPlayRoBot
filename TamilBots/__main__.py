@@ -10,6 +10,7 @@ from TamilBots.sql.chat_sql import add_chat_to_db
 
 start_text = """
 வணக்கம்! [{}](tg://user?id={}),
+
 நான் [SongPlayRoBot🎶](https://telegra.ph/file/cb7b0aead06c96955323e.jpg)!
 
 I'M Music Bot By @TamilBots 🤖
