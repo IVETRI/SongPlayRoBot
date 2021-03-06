@@ -9,7 +9,7 @@ from TamilBots.TamilBots import ignore_blacklisted_users
 from TamilBots.sql.chat_sql import add_chat_to_db
 
 start_text = """
-HI! [{}](tg://user?id={}),
+வணக்கம்! [{}](tg://user?id={}),
 IT'S [SongPlayRoBot🎶](https://telegra.ph/file/cb7b0aead06c96955323e.jpg)
 I'M Music Bot By @TamilBots 🤖
 Just send me the song name you want to download...
