@@ -15,7 +15,7 @@ start_text = """
 
 I'M Music Bot By @TamilBots 🤖
 
-Just send me the song name you want to download...
+உங்களுக்கு தேவையான பாடலின் பெயரை அனுப்பவும்... 🥰🤗🥰
 Eg :- ```/song Kanave Kanave```
 """
 
