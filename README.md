@@ -17,6 +17,6 @@ You can also join our support group [here!](https://t.me/TamilSupport)
 
 # Report error
 Report your problem along with your name to This [person](https://t.me/IMVETRI)
-##credits
+## credits
 This Repo Is Just A Custom Fork Of [Alexa](https://github.com/Mr-SHRLCK/Alexa)
 Thanks to [「𝙨𝙝є𝙧𝙡σ𝙘𝙠」](https:t.me/Mr_SRLOCK)
