@@ -11,7 +11,7 @@ from TamilBots.sql.chat_sql import add_chat_to_db
 start_text = """
 வணக்கம்! [{}](tg://user?id={}),
 
-நான் [SongPlayRoBot! 🎶](https://t.me/tamilsongstatus/392)
+நான் SongPlayRoBot! [🎶](https://t.me/tamilsongstatus/392)
 
 I'M Music Bot By @TamilBots 🤖
 
