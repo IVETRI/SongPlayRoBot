@@ -1,6 +1,6 @@
 pyrogram
 tgcrypto
 pytube
-sqlalchemy
+sqlalchemy==1.3.20
 psycopg2
 youtube-search-python
