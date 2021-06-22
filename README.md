@@ -1,4 +1,4 @@
-Check Our New Bot Repo & Video :
+# Check Our New Bot Repo & Video :
 
 [Video](https://youtu.be/3pN0W4KzzNY) 🎥
 
