@@ -1,3 +1,11 @@
+Check Our New Bot Repo & Video :
+
+[Video](https://youtu.be/3pN0W4KzzNY) 🎥
+
+Repo : [SongPlayRoBot 🎻](https://GitHub.Com/TamilBots/SongPlayRoBot)
+
+Bot : [Song Play Bot 🧚‍](https://t.me/SongPlayRoBot)
+
 # SongPlayRoBot
 3X Fast Telethon Based Bot ⚜
 
