@@ -4,14 +4,14 @@
 
 Repo : [SongPlayRoBot 🎻](https://GitHub.Com/TamilBots/SongPlayRoBot)
 
-Bot : [Song Play Bot 🧚‍](https://t.me/SongPlayRoBot)
+Bot : [Song Play Bot 🧚‍](https://t.me/SongProBot)
 
 # SongPlayRoBot
 3X Fast Telethon Based Bot ⚜
 
 Open Source Bot 👨🏻‍💻
 
-Demo : [SongPlayRoBot](https://t.me/SongPlayRoBot) 💃🏻
+Demo : [SongPlayRoBot](https://t.me/SongProBot) 💃🏻
 
 Easy To Deploy 🤗
 
