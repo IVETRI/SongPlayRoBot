@@ -6,7 +6,7 @@ Repo : [SongProBot 🎻](https://GitHub.Com/TamilBots/SongPlayRoBot)
 
 Bot : [Song Pro Bot 🧚‍](https://t.me/SongProBot)
 
-# SongPlayRoBot
+## SongPlayRoBot
 3X Fast Telethon Based Bot ⚜
 
 Open Source Bot 👨🏻‍💻
@@ -20,11 +20,11 @@ Easy To Deploy 🤗
 # DEPLOY
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IVETRI/SongPlayRoBot.git)
 
-# Group
+## Group
 You can also join our support group [HERE!](https://t.me/TamilSupport) 👨🏻‍💻
 
 # Report error
-Report your problem along with your name to This [PERSON](https://t.me/IMVETRI) 😪
+Report your problem along with your name to This [iMvEtRi🧑‍💻](https://t.me/IMVETRI) 😪
 
 
 
