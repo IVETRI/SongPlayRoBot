@@ -24,7 +24,7 @@ Easy To Deploy 🤗
 You can also join our support group [HERE!](https://t.me/TamilSupport) 👨🏻‍💻
 
 # Report error
-Report your problem along with your name to This [iMvEtRi🧑‍💻](https://t.me/IMVETRI) 😪
+Report your problem along with your name to This Person 📲 [iMvEtRi🧑‍💻](https://t.me/IMVETRI) 😪
 
 
 
