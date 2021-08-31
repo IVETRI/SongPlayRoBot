@@ -1,7 +1,6 @@
 {
-    "name": "SongPlayRoBot",
-    "logo": "https://telegra.ph/file/cb7b0aead06c96955323e.jpg",
-    "description": "Grabs song from yt and sends it to telegram by @TamilBots",
+    "name": "MusiqiBot",
+    "description": "Musiqi botu🎵🎶",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org.",
