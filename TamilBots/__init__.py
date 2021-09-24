@@ -8,4 +8,5 @@ logging.basicConfig(
 
 LOGGER = logging.getLogger(__name__)
 
-app = Client("SongPlayRoBot", bot_token=BOT_TOKEN, api_hash=API_HASH, api_id=API_ID)
+app = Client("Songs_Player_bot", bot_token=BOT_TOKEN, api_hash=API_HASH, api_id=API_ID)
+© 
