@@ -21,7 +21,7 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('𝐔𝐩𝐝𝐚𝐭𝐞𝐬 𝐂𝐡𝐚𝐧𝐧𝐞𝐥🔔', url='https://t.me/Updates_of_ElizaBot'),
+                    InlineKeyboardButton('𝐔𝐩𝐝𝐚𝐭𝐞𝐬 𝐂𝐡𝐚�⛔', url='https://t.me/Updates_of_ElizaBot'),
                     InlineKeyboardButton('𝐒𝐞𝐚𝐫𝐜𝐡 𝐈𝐧𝐥𝐢𝐧𝐞', switch_inline_query_current_chat='')
                 ]
             ]
