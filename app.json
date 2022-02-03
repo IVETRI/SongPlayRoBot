@@ -1,5 +1,5 @@
 {
-    "name": "SongPlayRoBot",
+    "name": "chamodbot",
     "logo": "https://telegra.ph/file/cb7b0aead06c96955323e.jpg",
     "description": "Grabs song from yt and sends it to telegram by @TamilBots",
     "env": {
