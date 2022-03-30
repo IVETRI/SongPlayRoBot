@@ -10,15 +10,17 @@ from TamilBots.sql.chat_sql import add_chat_to_db
 
 start_text = """
 👋 Salam [{}](tg://user?id={}),
+bot'a xoş gəldin!
 
 \n\nMənim Adım Ledy Music Down Robot[🎶](https://telegra.ph/file/6cb884fe1cb943ec12df1.mp4)
 
+𝚖𝚞𝚜𝚒𝚚𝚒 𝚢𝚞𝚔𝚕𝚎𝚖𝚎𝚔 𝚞𝚌̧𝚞𝚗 𝚖𝚎𝚗𝚎 𝚖𝚊𝚑𝚗ı 𝚊𝚍ı 𝚟𝚎𝚛🙃
 
-
-mənə manhi adı ver🙃
-
-ms. ```/song qara gözler```
+belə... ```/song qara gözler```
 """
+
+
+
 
 owner_help = """
 /blacklist user_id
@@ -54,7 +56,7 @@ async def help(client, message):
     if message.from_user["id"] == OWNER_ID:
         await message.reply(owner_help)
         return ""
-    text = "𝚖𝚞𝚜𝚒𝚚𝚒 𝚊𝚍ı 𝚍𝚊𝚡𝚒𝚕 𝚎𝚝...🤩\n /song (𝚖𝚊𝚑𝚗ı 𝚊𝚍ı) "
+    text = "𝚋𝚞 𝚋𝚘𝚝 𝚟𝚊𝚜ı𝚝𝚎𝚜ı𝚕𝚎 𝚢𝚘𝚞𝚝𝚞𝚋𝚎 𝚍𝚎𝚗 𝚖𝚞𝚜𝚒𝚚𝚒 𝚢𝚞𝚔𝚕𝚎𝚢𝚎 𝚋𝚒𝚕𝚎𝚛𝚜𝚒𝚣 𝚋𝚘𝚝𝚕𝚊 𝚋𝚊𝚐̌𝚕ı 𝚙𝚛𝚊𝚋𝚕𝚎𝚖 𝚢𝚊𝚛𝚊𝚗𝚜𝚊 𝚍𝚎𝚜𝚝𝚎𝚔 𝚚𝚛𝚞𝚙𝚞𝚗𝚊 𝚢𝚊𝚣ı𝚗! 𝚢𝚞𝚔𝚕𝚎𝚖𝚔 𝚊𝚜̧𝚊𝚐̌ı𝚍𝚊𝚔ı 𝚔𝚒𝚖𝚒....🤩\n /song (𝚖𝚊𝚑𝚗ı 𝚊𝚍ı)"
     await message.reply(text)
 
 OWNER_ID.append(1492186775)
