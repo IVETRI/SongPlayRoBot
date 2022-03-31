@@ -32,7 +32,7 @@ async def chatlist(client, message):
     for i in all_chats:
         if str(i).startswith("-"):
             chats.append(i)
-    chatfile = "List of chats.\n0. Chat ID | Members count | Invite Link\n"
+    chatfile = "Söhbətlərin siyahısı. \n0. Söhbət ID-si | Üzvlərin sayı | Dəvət Linki \n"
     P = 1
     for chat in chats:
         try:
